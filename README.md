@@ -1,1 +1,1 @@
-# Java is a programming languageand a platform.
+# Java is a programming language and a platform.
