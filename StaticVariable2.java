@@ -23,3 +23,11 @@ public class Main {
 		new Counter();
 	}
 }
+/* Output
+static blocks perform initialization tasks
+count1 : 1 count2 : 2
+count1 : 1 count2 : 3
+count1 : 1 count2 : 4
+
+[Program finished]
+*/
