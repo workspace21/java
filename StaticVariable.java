@@ -32,9 +32,9 @@ public class Main {
 		System.out.println();
 		
 		// instance of class using static variable
-    CounterTwo c4 = new CounterTwo();
-    CounterTwo c5 = new CounterTwo();
-    CounterTwo c6 = new CounterTwo();		
+    		CounterTwo c4 = new CounterTwo();
+    		CounterTwo c5 = new CounterTwo();
+    		CounterTwo c6 = new CounterTwo();		
 	}
 }
 
