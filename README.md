@@ -12,12 +12,9 @@ This repository is designed to my reusable codes and learn Java Programns
 CLASS
 	In java a class is a blue print from which individual objects are created.
 A Java class can contain:
-FILDS
-	Fields are variables (data) that are local to the class.
-CONSTRUCTORS
-	Constructors are methods that initialize an instance of the class. Constructors often sets the values of fields in the given instance.
-METHODS
-	Methods are operations that the class or instances of that class can perform.
+FILDS are variables (data) that are local to the class.
+CONSTRUCTORS are methods that initialize an instance of the class. Constructors often sets the values of fields in the given instance.
+METHODS are operations that the class or instances of that class can perform.
 
 METHOD OVERLOADING
 If a class has multiple methods having same name but different in parameters, it is known as Method Overloading.
